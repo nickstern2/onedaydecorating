@@ -1,0 +1,38 @@
+.navbar-lewagon {
+  transition: 0.5s background-color ease;
+  background-color: transparent;
+}
+.main-nav-link {
+  margin-top: 8px;
+}
+
+.navbar-lewagon-white {
+}
+
+div.nav-icons i {
+  color: white;
+  font-size: 25px;
+}
+.navbar-lewagon-black {
+  background-color: black;
+}
+.navbar {
+  box-shadow: 0 7px 6px -6px black;
+}
+
+a.nav-link {
+  color: white !important;
+  display: inline-block;
+  font-size: 20px;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+.fab {
+  padding: 5px;
+}
+
+@media (max-width: 767px) {
+  .navbar {
+    background-color: black;
+  }
+}

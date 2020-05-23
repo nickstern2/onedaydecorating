@@ -1,0 +1,50 @@
+.scroll-img {
+  /*Set a css background */
+  background: url(https://res.cloudinary.com/dxy1zcexj/image/upload/v1577675121/kitchen-1940174_aqzmmz.jpg)
+    fixed;
+  background-size: cover;
+  /* // position: fixed; */
+
+  /*Dont mind the rest*/
+  width: 100%;
+  height: 400px;
+  line-height: 300px;
+  margin: 0 auto;
+  /* // margin-top:150px; */
+  text-align: center;
+  color: #fff;
+  font-family: 'Open Sans' sans-serif;
+}
+.scroll-img2 {
+  /*Set a css background */
+  background: url(https://res.cloudinary.com/dxy1zcexj/image/upload/v1577673676/livingroom-1032733_w8adnu.jpg)
+    fixed;
+  background-size: cover;
+  /* // position: fixed; */
+  /*Dont mind the rest*/
+  width: 100%;
+  height: 400px;
+  line-height: 300px;
+  margin: 0 auto;
+  /* // margin-top:150px; */
+  text-align: center;
+  color: #fff;
+  font-family: 'Open Sans' sans-serif;
+}
+.scroll-img3 {
+  /*Set a css background */
+  /* // background: url(https://res.cloudinary.com/dxy1zcexj/image/upload/v1568632824/cyclone-2102397_qeljpn.jpg) fixed; */
+  background: url(https://res.cloudinary.com/dxy1zcexj/image/upload/v1577674919/bedroom-1940168-1_guhpmp.jpg)
+    fixed;
+  background-size: cover;
+  /* // position: fixed; */
+  /*Dont mind the rest*/
+  width: 100%;
+  height: 400px;
+  line-height: 300px;
+  margin: 0 auto;
+  /* // margin-top:150px; */
+  text-align: center;
+  color: #fff;
+  font-family: 'Open Sans' sans-serif;
+}
