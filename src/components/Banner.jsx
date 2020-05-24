@@ -27,7 +27,7 @@ const Banner = () =>  {
   
     return (
 
-       <div id="top bg1" className="banner">
+       <div id="home" className="banner">
           <div className="container">
             <HomeContentWrapper>  
               {/* <div className="col-12 col-lg-12"> */}
